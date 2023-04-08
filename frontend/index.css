@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 2rem;
+    /* min-width: 960px; */
+}
+
+.list-group-item {
+    display: flex !important;
+    justify-content: space-between;
+}
